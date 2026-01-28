@@ -22,7 +22,7 @@ As an additional data point, we also got the average similarity of a term with a
 
 The dataset was not balanced, with close to 20,000 rows labeled as “None” (2) and merely 10000 labeled as either “Excluded” (1) or “Added” (0). 
 
-![Class counts](https://github.com/CatosCrack/NegativeKeywords/blob/main/images/1.png)
+![Class counts](images/1.png)
 
 Moreover, we analyzed the correlations between the variables to check if the data points were indeed relevant and made sense based on empirical experience.
 
